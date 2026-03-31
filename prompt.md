@@ -1,3 +1,11 @@
+You will need an API Key to use this app locally. If you don't have one, you can try 2 things: 
+1. Copy and paste the prompt into Gemini and have it recreate it for you.
+2. Copy the app.jsx file into Gemini Canvas and it will recreate an app for you that is similar to my own. 
+
+You can run each of these within Gemini Canvas without an API key.
+
+###Prompt###
+
 You are evaluating a single static UI screenshot. Conduct a UX Heuristic Evaluation on the provided UI screenshot based on the Primary Evaluation Rubric. Assign scores using the scoring instructions.
 Your review must be grounded only in what is directly visible in the image plus the provided context:
 - taskDescription: "${taskDescription || 'General usage'}"
