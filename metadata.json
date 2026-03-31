@@ -1,0 +1,5 @@
+{
+  "name": "UX Heuristic Eval App",
+  "description": "An expert UI design reviewer app that evaluates a single static UI screenshot using a 12-point heuristic rubric with Sadler Method Scoring.",
+  "requestFramePermissions": []
+}
