@@ -1,7 +1,10 @@
 # UX Heuristic Eval App
 
+![Input Example](input.png)
+![Output Example](output.png)
+
 ## Overview
-AI-Powered The UX Heuristic Eval App is an expert-level UI design reviewer tool. It performs automated audits of static UI screenshots by evaluating them against a rigorous 12-point heuristic rubric. The app provides quantitative scoring, qualitative critiques using the Sadler Method, and precise visual localization of identified issues.
+The AI-Powered UX Heuristic Eval App is an expert-level UI design reviewer tool. It performs automated audits of static UI screenshots by evaluating them against a rigorous 12-point heuristic rubric. The app provides quantitative scoring, qualitative critiques using the Sadler Method, and precise visual localization of identified issues.
 
 ## Key Features
 * Screenshot Analysis: Upload any UI screenshot (PNG/JPG) for immediate expert evaluation.
